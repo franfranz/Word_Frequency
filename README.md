@@ -1,2 +1,2 @@
 # Word_Frequency
-Handy frequency lists from corpora and a few related utilities.
+Handy frequency lists from corpora and some related code.
