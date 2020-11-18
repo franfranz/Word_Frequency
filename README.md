@@ -1,4 +1,4 @@
-# Word_Frequency Toytools
+# Word Frequency Toytools
 Code to generate/annotate/handle lists of frequency from corpora.
 
 ## Contents:
