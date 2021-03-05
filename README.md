@@ -1,7 +1,11 @@
-# Word_Frequency_Toytools
+
+# Word Frequency Toytools
+Code to generate/annotate/handle lists of frequency from corpora.
 
 ## Normalize Word Frequency
-To use [Normalize Word Frequency](https://github.com/franfranz/Word_Frequency_Toytools/blob/main/Normalize_word_frequency_v0_1_5.R): 
+Code to normalize raw frequency counts into fpmw, fpbw, zipf, zipf per billion and other popular measures to indicate word frequency. 
+
+### To use [Normalize Word Frequency](https://github.com/franfranz/Word_Frequency_Toytools/blob/main/Normalize_word_frequency_v0_1_5.R): 
 
 Prepare your input file:
 - make sure your txt or csv input file has a header: the column with raw frequency you want to normalize must be called "Frequency" 
