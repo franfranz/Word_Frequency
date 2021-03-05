@@ -13,7 +13,7 @@ Set input specifications in the code:
 - set the paths for input and output files (line 28-30)
 - set the file extension (36)
 - set the file separators (48)
-
+- set size of corpus (70) - this version reports the size of Itwac.
 Set output specifications in the code:
 - choose what transformations to apply by commenting/ uncommenting (56-65)
 
