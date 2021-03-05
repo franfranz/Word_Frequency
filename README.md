@@ -3,7 +3,7 @@
 Code to generate/annotate/handle lists of frequency from corpora.
 
 ## Normalize Word Frequency [v0.1.5](https://github.com/franfranz/Word_Frequency_Toytools/blob/main/Normalize_word_frequency_v0_1_5.R)
-Code to normalize raw frequency counts into fpmw, fpbw, zipf, zipf per billion and other popular measures to indicate word frequency. 
+R code to normalize raw frequency counts into fpmw, fpbw, zipf, zipf per billion and other popular measures to indicate word frequency. 
 To use Normalize Word Frequency :
 
 Prepare your input file:
@@ -16,3 +16,7 @@ Set input specifications in the code:
 
 Set output specifications in the code:
 - choose what transformations to apply by commenting/ uncommenting (56-65)
+
+
+## Normalize Word Frequency v0.1.4
+This version has been deprecated.
