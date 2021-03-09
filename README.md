@@ -7,7 +7,7 @@ R code to normalize raw frequency counts into fpmw, fpbw, zipf, zipf per billion
 To use Normalize Word Frequency :
 
 Prepare your input file:
-- make sure your txt or csv input file has a header: the column with raw frequency you want to normalize must be called "Frequency" 
+- make sure your txt or csv input files have a header: the column with raw frequency you want to normalize must be called "Frequency" 
 
 Set input specifications in the code:
 - set the paths for input and output files (line 28-30)
