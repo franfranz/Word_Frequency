@@ -51,7 +51,7 @@ thesep=";"
 headerpresence=T
 
 
-#  ### Input: your preferred normalizations - comment the ones you wish to be included in your output file
+#  ### Input: your preferred normalizations - uncomment the ones you wish to be included in your output file
 #
 norms=c("per_million", #frequency per million words
         "zipf", # zipf normalization
